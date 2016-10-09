@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smooch</string>
+    <string name="action_settings">Settings</string>
+    <string name="smooch_key">6ut86dy6u65y9gqc8ujvr0sqt</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

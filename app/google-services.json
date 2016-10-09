@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749966061668",
+    "firebase_url": "https://mysmooch-6dfa7.firebaseio.com",
+    "project_id": "mysmooch-6dfa7",
+    "storage_bucket": "mysmooch-6dfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749966061668:android:acecf9d52953403a",
+        "android_client_info": {
+          "package_name": "com.yuhilda.smooch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749966061668-rpnlps16ke43rs25uc6qebpsq56mnn90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAfdDgQOceCT9m2o54dt5W5wOaZCxlu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
